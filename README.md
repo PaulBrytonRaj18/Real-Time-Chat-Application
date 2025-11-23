@@ -1,16 +1,5 @@
-# CHAT-APPLICATION-task-2
+# CHAT-APPLICATION
 
-*Company*: CODTECH IT SOLUTIONS
-
-*Name*: Paul Bryton Raj
-
-*INTERN ID*: CY06DY2622
-
-*DOMAIN*: Full Stack Developement
-
-*DURATION*: 6 weeks
-
-*MENTOR*: **NEELA SANTHOSH**
 
 **Output**
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/93403306-64b6-4dd9-a8d5-1ebb63c0905c" />
